@@ -1,0 +1,44 @@
+body {
+    background-color: yellowgreen;
+    color: #fff;
+}
+.heathens {
+    margin-top: 10%;
+}
+
+a{
+    color: #fff;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.cont-icons {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    padding: 1rem 1rem;
+}
+
+#icon {
+    padding: 0.5rem 0.5rem;
+    border-radius: 50%;
+    box-shadow: 1px 2px 2px 3px #fff;
+    height: 50px;
+    width: 50px;
+    margin: 1rem 1rem;
+    text-align: center;
+}
+
+.row .social-media {
+    box-shadow: 1px 2px 2px 3px #fff;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    padding: 1rem 1rem;
+}
+
+.list-group .list-group-item {
+    color: teal;
+}

@@ -1,0 +1,60 @@
+html {
+    background: #000;
+}
+
+body {
+    background: #000;
+    color: #fff;
+
+}
+
+.container {
+    margin: 10% 8%;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
+.company-name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+}
+
+.details {
+    text-align: left;
+    border-left: 3px solid #fff;
+}
+
+h1 {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+h3 {
+    color: #ffff00;
+    font-weight: bolder;
+}
+a {
+    color: #808080;
+    text-decoration: none;
+}
+a:hover {
+    color: #fff;
+}
+span:hover {
+    color: #fff;
+    background: #008000;
+}
+
+span {
+    padding: 1rem 1rem;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 1px 2px 2px 3px #808080;
+    margin: 0.5rem 0.5rem;
+}
+
+.social-media {
+    padding: 1rem 1rem;
+}
